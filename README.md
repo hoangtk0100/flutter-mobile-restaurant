@@ -1,6 +1,6 @@
 # restaurant
 
-A new Flutter project.
+![Dribbble UI](/lib/assets/ui.png)
 
 ## Getting Started
 
